@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(239, 245, 245);    
+}
+nav {
+    background-image: url(./fotos/fondo\ 2.avif);
+}
+.card {
+    background-image: url(./fotos/fondo\ 2.avif); 
+    background-size: contain;
+}
+
+.navbar-brand {
+    color: antiquewhite;
+}
+.nav-link {
+    color: antiquewhite;
+}
+.nav-item {
+    color: antiquewhite;
+}
+.card-text {
+    color: antiquewhite;
+}
+.card-title {
+    color: chocolate;
+}
+div {
+    background-color: rgb(9, 61, 110);
+}
+.card-footer {
+    background-image: url(./fotos/fondo\ 2.avif);
+}
+.card-body {
+  background-image: url(./fotos/fondo2.avif);
+  background-position: center;
+}
+.card-header {
+    background-color: rgb(9,61,110);
+    color: antiquewhite;
+}
+.bi-whatsapp {
+    color: chocolate;
+}
+.bi-facebook {
+    color: chocolate;
+}
+.bi-github {
+    color: antiquewhite;
+}
+.bi-linkedin {
+    color: antiquewhite;
+}
+.bi-instagram {
+    color: antiquewhite;
+}
+.bi-envelope {
+    color: chocolate;
+}
+.img {
+    width: 300px;
+}
+.footer {
+    background-image: url(./fotos/fondo\ 2.avif); 
+    background-size: cover;
+    text-align: center;
+    color: antiquewhite;
+}
+.image {
+    height: 525px;
+}
+.wall {
+    background-image: url(./fotos/degrade.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+   
+}
