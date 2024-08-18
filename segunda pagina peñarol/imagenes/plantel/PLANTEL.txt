@@ -1,0 +1,73 @@
+
+Jose Neris
+Nombre: Jose Neris
+Posición: Delantero
+Peso: 82 Kgs
+Estatura: 1.80 mts
+
+
+Ignacio Sosa
+Nombre: Ignacio Sosa
+Posición: Mediocampista
+Peso: 70 Kgs
+Estatura: 1.75 mts
+
+Ángel González
+Nombre: Ángel González
+Posición: Mediocampista / Delantero
+Peso: 68 Kgs
+Estatura: 1.70 mts
+
+Mathias De Ritis
+Nombre: Mathias De Ritis
+Posición: Defensa
+Peso: 79 Kgs
+Estatura: 1.83 mts
+
+Randall Rodríguez
+Nombre: Randall Rodríguez
+Posición: Arquero
+Peso: 83 Kgs
+Estatura: 1.89 mts
+
+Nahuel Herrera
+Nombre: Nahuel Herrera
+Posición: Defensa
+Peso: 85 Kgs
+Estatura: 1.86 mts
+
+Lucas Hernández
+Nombre: Lucas Hernández
+Posición: Lateral
+Peso: 83 Kgs
+Estatura: 1.75 mts
+
+Damián García
+Nombre: Damián Garcia
+Posición: Mediocampista
+Peso: 74 Kgs
+Estatura: 1.78 mts
+
+Leonardo Coelho
+Nombre: Leonardo Coelho
+Posición: Defensa
+Peso: 86 Kgs
+Estatura: 1.90 mts
+
+Pedro Milans
+Nombre: Pedro Milans
+Posición: Defensa
+Peso: 69 Kgs
+Estatura: 1.71 mts
+
+Sebastián Cristóforo
+Nombre: Sebastián Cristóforo
+Posición: Volante
+Peso: 69 Kgs
+Estatura: 1.72 mts
+
+Maximiliano Olivera
+Nombre: Maximiliano Olivera
+Posición: Defensa
+Peso: 72 Kgs
+Estatura: 1.85 mts
